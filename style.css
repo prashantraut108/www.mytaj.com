@@ -12,7 +12,7 @@
     margin: 0;
 }
 
-html{
+html {
     scroll-behavior: smooth;
 }
 
@@ -188,7 +188,7 @@ header .carousel-caption h1 {
     transition: all .28s cubic-bezier(.15, 0, .15, 1);
 }
 
-.rooms .roomsbtn{
+.rooms .roomsbtn {
     padding: .5rem 4rem .5rem;
     border: 1px solid rgb(56, 56, 56);
     border-radius: 11px;
@@ -225,8 +225,8 @@ header .carousel-caption h1 {
 
 /*///////// services section start ///////// */
 
-.service{
-    margin-top:7rem;
+.service {
+    margin-top: 7rem;
 }
 
 .services .carousel .carousel-item img {
